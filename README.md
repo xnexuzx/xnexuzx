@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nexuz and sometimes @xnexuzx cuz the name was taken lmao..
-- 😎 I’m interested in photography and Custom Roms AOSP :P
-- 💻 I’m constantly learning and testing custom roms on Davinci (Mi 9T) 
+- 👋 Hi, I’m @Nexuz and sometimes @xnexuzx cuz the name was taken lmao...
+- 😎 I’m interested in photography and Custom AOSP Roms :P
+- 💻 I’m constantly learning and testing custom roms on Davinci and Raphael (Mi 9T and Pro) 
 - 📫 U can send me pm to @xnexuzx on Telegram
 
 Btw i speak Spanish but i can understand English just fine ;3
