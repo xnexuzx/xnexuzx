@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Nexuz and sometimes @xnexuzx cuz the name was taken lmao...
-- 😎 I’m interested in photography and Custom AOSP Roms :P
-- 💻 I’m constantly learning and testing custom roms on Davinci and Raphael (Mi 9T and Pro) 
-- 📫 U can send me pm to @xnexuzx on Telegram
 
-Btw i speak Spanish but i can understand English just fine ;3
-<!---
-xnexuzx/xnexuzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Nexuz and sometimes @xnexuzx because the name was taken lol...
+- 😎 I’m interested in Ai, photography, AOSP roms, GCam, and more things. :P
+- 💻 I’m constantly learning and testing AI related things, like ollama, lmstudio, comfyui, etc.
+- 📫 You can send me a pm to @xnexuzx on Telegram if you need help with something :3 
+
+Btw I speak Spanish but I can understand English just fine :D
